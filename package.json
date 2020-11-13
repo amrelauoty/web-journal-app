@@ -1,0 +1,28 @@
+{
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "description": "journal app with an api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrelauoty/web-journal-app.git"
+  },
+  "keywords": [
+    "journal-app",
+    "app",
+    "journal",
+    "webapp",
+    "weather",
+    "weather-journal"
+  ],
+  "author": "Amr Elauoty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amrelauoty/web-journal-app/issues"
+  },
+  "homepage": "https://github.com/amrelauoty/web-journal-app#readme"
+}
